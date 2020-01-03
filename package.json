@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/hempflower/meteor#readme",
   "devDependencies": {
-    "electron": "^7.1.7"
+    "electron": "^7.0.0"
   }
 }
