@@ -1,0 +1,30 @@
+{
+  "name": "meteor",
+  "version": "1.0.0",
+  "description": "A WebApp platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"dev": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hempflower/meteor.git"
+  },
+  "keywords": [
+    "Webapp",
+    "html",
+    "css",
+    "js",
+    "electron"
+  ],
+  "author": "hempflower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hempflower/meteor/issues"
+  },
+  "homepage": "https://github.com/hempflower/meteor#readme",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
